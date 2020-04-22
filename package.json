@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "www": "yarn workspace www"
+  },
+  "workspaces": [
+    "www",
+    "themes/*"
+  ]
+}

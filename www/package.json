@@ -1,0 +1,13 @@
+{
+  "name": "www",
+  "version": "0.0.1",
+  "scripts": {
+    "develop": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^2.20.27",
+    "gatsby-theme-streamcards-base": "0.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
